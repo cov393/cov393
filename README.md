@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cov393&label=Profile%20views&color=0e75b6&style=flat" alt="cov393" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cov393" alt="cov393" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-
-- 📫 How to reach me **covuk393@gmail.com**
-
 <p align="left">
 </p>
 
